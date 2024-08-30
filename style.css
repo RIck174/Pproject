@@ -39,7 +39,7 @@ h3{
     color: rgb(139, 94, 27);
 }
 .home{
-    background-image: url(WhatsApp Image 2024-08-29 at 20.23.22_b8ee3864.jpg);
+    background-image: url("WhatsApp Image 2024-08-29 at 20.23.22_b8ee3864.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
